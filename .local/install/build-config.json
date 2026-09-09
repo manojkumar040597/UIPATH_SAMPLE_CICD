@@ -1,0 +1,6 @@
+{
+  "Version": "1.0",
+  "IncludeWorkflows": [
+    "Sequence_2.0_Sample.xaml"
+  ]
+}

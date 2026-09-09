@@ -1,0 +1,6 @@
+{
+  "Name": "RoboticEnterpriseFramework_Sample",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework Sample",
+  "MainFile": "Main.xaml"
+}

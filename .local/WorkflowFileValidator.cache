@@ -1,0 +1,16 @@
+Tests/WorkflowTestCaseTemplate.xaml|639244620971085438
+Tests/MainTestCase.xaml|639244620969084596
+Tests/ProcessTestCase.xaml|639244620968077197
+Tests/InitAllSettingsTestCase.xaml|639244620966199875
+Tests/GetTransactionDataTestCase.xaml|639244620960572706
+Tests/InitAllApplicationsTestCase.xaml|639244620960460672
+Framework/TakeScreenshot.xaml|639244620951009881
+Framework/Process.xaml|639244620935946441
+Framework/KillAllProcesses.xaml|639244620934852034
+Framework/RetryCurrentTransaction.xaml|639244620935187120
+Framework/SetTransactionStatus.xaml|639244620936830276
+Framework/InitAllApplications.xaml|639244620935220257
+Framework/GetTransactionData.xaml|639244620935748865
+Framework/InitAllSettings.xaml|639244620937854435
+Framework/CloseAllApplications.xaml|639244620934351951
+Sequence_2.0_Sample.xaml|639245433107836236

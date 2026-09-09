@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8Ez1V8bXVkCADkIR8BCXtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demo.cyclos.org/ui/dashboard" DesignTimeRectangle="1331, 148, 21, 20" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='logout-trigger' tag='svg' /&gt;" Guid="caaed2aa-7f08-4e4a-9abb-7f6dadb5590a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dashboard - Cyclos' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1d99c7ccffc5d307f72efe20f0e36b79.jpg" xmlns="">0ZmwhORLzoUm9ecl_-yhajw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

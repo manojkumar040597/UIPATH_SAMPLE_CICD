@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "fkcw1p-Ey0mUyR8VKKFwDw",
+  "Reference": "PId5D-aNUU-rbhfAuUrg6w/fkcw1p-Ey0mUyR8VKKFwDw",
+  "ParentRef": "PId5D-aNUU-rbhfAuUrg6w/5EGjZv8Oj0WvijsxP5o8Sg",
+  "Created": "2026-09-08T10:14:17.612099Z",
+  "Updated": "2026-09-08T10:14:17.612099Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

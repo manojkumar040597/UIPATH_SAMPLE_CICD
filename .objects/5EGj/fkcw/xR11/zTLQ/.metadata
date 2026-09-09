@@ -1,0 +1,14 @@
+﻿{
+  "Name": "KAyya",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Id": "zTLQe-YutU-6SS-mN1_fmg",
+  "Reference": "PId5D-aNUU-rbhfAuUrg6w/zTLQe-YutU-6SS-mN1_fmg",
+  "ParentRef": "PId5D-aNUU-rbhfAuUrg6w/xR1167XD7E-uGeFFilDY0g",
+  "Created": "2026-09-08T10:40:01.0031037Z",
+  "Updated": "2026-09-08T10:40:01.0031037Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
